@@ -29,24 +29,6 @@ A modern, strongly-typed .NET 10 library for accessing **Yahoo Finance** market 
 
 ---
 
-## 📦 Installation
-
-> **Note:** This library targets **.NET 10.0** and requires no API key — it uses session-based authentication with Yahoo Finance.
-
-Add the project reference or, once published to NuGet, install via:
-
-```bash
-dotnet add package YahooFinanceAPI
-```
-
-Or in your `.csproj`:
-
-```xml
-<PackageReference Include="YahooFinanceAPI" Version="1.0.0" />
-```
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Register Services
